@@ -38,6 +38,7 @@ body{
 }
 .subtitle{
 	display: flex;
+	align-self: center;
 	justify-content: center;
 }	
 .m-st-style{
@@ -125,6 +126,7 @@ body{
 	padding-top: 35px;
 	padding-bottom: 35px;
 	 }
+
 @media screen and (max-width: 768px) {
 body {
 padding-left: 10px;
@@ -145,8 +147,8 @@ width: 100%;
 }
 
 .o-style{
-	font-size: 12px;
-	width: 100%;
+font-size: 12px;
+width: 100%;
 }
 
 .st-style {
